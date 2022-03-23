@@ -1,0 +1,18 @@
+E:\LuuDuLieuSinhVien\Bai của Lê Văn Thông\Net_Buoi02_ThietKeControl\Net_Buoi02_ThietKeControl\bin\Debug\Net_Buoi02_ThietKeControl.exe.config
+E:\LuuDuLieuSinhVien\Bai của Lê Văn Thông\Net_Buoi02_ThietKeControl\Net_Buoi02_ThietKeControl\bin\Debug\Net_Buoi02_ThietKeControl.exe
+E:\LuuDuLieuSinhVien\Bai của Lê Văn Thông\Net_Buoi02_ThietKeControl\Net_Buoi02_ThietKeControl\bin\Debug\Net_Buoi02_ThietKeControl.pdb
+E:\LuuDuLieuSinhVien\Bai của Lê Văn Thông\Net_Buoi02_ThietKeControl\Net_Buoi02_ThietKeControl\bin\Debug\UserTextBox.dll
+E:\LuuDuLieuSinhVien\Bai của Lê Văn Thông\Net_Buoi02_ThietKeControl\Net_Buoi02_ThietKeControl\bin\Debug\UserTextBox.pdb
+E:\LuuDuLieuSinhVien\Bai của Lê Văn Thông\Net_Buoi02_ThietKeControl\Net_Buoi02_ThietKeControl\obj\Debug\Net_Buoi02_ThietKeControl.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\Bai của Lê Văn Thông\Net_Buoi02_ThietKeControl\Net_Buoi02_ThietKeControl\obj\Debug\Net_Buoi02_ThietKeControl.FrmMain.resources
+E:\LuuDuLieuSinhVien\Bai của Lê Văn Thông\Net_Buoi02_ThietKeControl\Net_Buoi02_ThietKeControl\obj\Debug\Net_Buoi02_ThietKeControl.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\Bai của Lê Văn Thông\Net_Buoi02_ThietKeControl\Net_Buoi02_ThietKeControl\obj\Debug\Net_Buoi02_ThietKeControl.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\Bai của Lê Văn Thông\Net_Buoi02_ThietKeControl\Net_Buoi02_ThietKeControl\obj\Debug\Net_Buoi02_ThietKeControl.exe
+E:\LuuDuLieuSinhVien\Bai của Lê Văn Thông\Net_Buoi02_ThietKeControl\Net_Buoi02_ThietKeControl\obj\Debug\Net_Buoi02_ThietKeControl.pdb
+E:\LuuDuLieuSinhVien\Bai của Lê Văn Thông\Net_Buoi02_ThietKeControl\Net_Buoi02_ThietKeControl\bin\Debug\UpperTextBox.dll
+E:\LuuDuLieuSinhVien\Bai của Lê Văn Thông\Net_Buoi02_ThietKeControl\Net_Buoi02_ThietKeControl\bin\Debug\UpperTextBox.pdb
+E:\LuuDuLieuSinhVien\Bai của Lê Văn Thông\Net_Buoi02_ThietKeControl\Net_Buoi02_ThietKeControl\bin\Debug\NumberTextBox.dll
+E:\LuuDuLieuSinhVien\Bai của Lê Văn Thông\Net_Buoi02_ThietKeControl\Net_Buoi02_ThietKeControl\bin\Debug\NumberTextBox.pdb
+E:\LuuDuLieuSinhVien\NguyenNhutNam_Buoi3\Net_Buoi02_ThietKeControl\Net_Buoi02_ThietKeControl\bin\Debug\Net_Buoi02_ThietKeControl.exe.config
+E:\LuuDuLieuSinhVien\NguyenNhutNam_Buoi3\Net_Buoi02_ThietKeControl\Net_Buoi02_ThietKeControl\obj\Debug\Net_Buoi02_ThietKeControl.exe
+E:\LuuDuLieuSinhVien\NguyenNhutNam_Buoi3\Net_Buoi02_ThietKeControl\Net_Buoi02_ThietKeControl\obj\Debug\Net_Buoi02_ThietKeControl.pdb

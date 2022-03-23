@@ -1,0 +1,7 @@
+E:\LuuDuLieuSinhVien\NguyenNhutNam_Buoi3\buoi3_NguyenNhutNam\userControl\bin\Debug\userControl.dll
+E:\LuuDuLieuSinhVien\NguyenNhutNam_Buoi3\buoi3_NguyenNhutNam\userControl\bin\Debug\userControl.pdb
+E:\LuuDuLieuSinhVien\NguyenNhutNam_Buoi3\buoi3_NguyenNhutNam\userControl\obj\Debug\userControl.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\NguyenNhutNam_Buoi3\buoi3_NguyenNhutNam\userControl\obj\Debug\userControl.UserControl1.resources
+E:\LuuDuLieuSinhVien\NguyenNhutNam_Buoi3\buoi3_NguyenNhutNam\userControl\obj\Debug\userControl.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\NguyenNhutNam_Buoi3\buoi3_NguyenNhutNam\userControl\obj\Debug\userControl.dll
+E:\LuuDuLieuSinhVien\NguyenNhutNam_Buoi3\buoi3_NguyenNhutNam\userControl\obj\Debug\userControl.pdb

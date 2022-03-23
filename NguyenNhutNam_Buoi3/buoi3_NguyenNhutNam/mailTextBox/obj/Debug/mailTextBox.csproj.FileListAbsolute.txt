@@ -1,0 +1,5 @@
+E:\LuuDuLieuSinhVien\NguyenNhutNam_Buoi3\buoi3_NguyenNhutNam\mailTextBox\bin\Debug\mailTextBox.dll
+E:\LuuDuLieuSinhVien\NguyenNhutNam_Buoi3\buoi3_NguyenNhutNam\mailTextBox\bin\Debug\mailTextBox.pdb
+E:\LuuDuLieuSinhVien\NguyenNhutNam_Buoi3\buoi3_NguyenNhutNam\mailTextBox\obj\Debug\mailTextBox.dll
+E:\LuuDuLieuSinhVien\NguyenNhutNam_Buoi3\buoi3_NguyenNhutNam\mailTextBox\obj\Debug\mailTextBox.pdb
+E:\LuuDuLieuSinhVien\NguyenNhutNam_Buoi3\buoi3_NguyenNhutNam\mailTextBox\obj\Debug\mailTextBox.csprojResolveAssemblyReference.cache

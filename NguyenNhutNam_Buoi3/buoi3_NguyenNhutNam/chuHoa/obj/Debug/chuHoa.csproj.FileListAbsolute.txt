@@ -1,0 +1,4 @@
+E:\LuuDuLieuSinhVien\NguyenNhutNam_Buoi3\buoi3_NguyenNhutNam\chuHoa\bin\Debug\chuHoa.dll
+E:\LuuDuLieuSinhVien\NguyenNhutNam_Buoi3\buoi3_NguyenNhutNam\chuHoa\bin\Debug\chuHoa.pdb
+E:\LuuDuLieuSinhVien\NguyenNhutNam_Buoi3\buoi3_NguyenNhutNam\chuHoa\obj\Debug\chuHoa.dll
+E:\LuuDuLieuSinhVien\NguyenNhutNam_Buoi3\buoi3_NguyenNhutNam\chuHoa\obj\Debug\chuHoa.pdb
