@@ -1,4 +1,0 @@
-E:\LuuDuLieuSinhVien\Bai của Lê Văn Thông\Net_Buoi02_ThietKeControl\UpperTextBox\bin\Debug\UpperTextBox.dll
-E:\LuuDuLieuSinhVien\Bai của Lê Văn Thông\Net_Buoi02_ThietKeControl\UpperTextBox\bin\Debug\UpperTextBox.pdb
-E:\LuuDuLieuSinhVien\Bai của Lê Văn Thông\Net_Buoi02_ThietKeControl\UpperTextBox\obj\Debug\UpperTextBox.dll
-E:\LuuDuLieuSinhVien\Bai của Lê Văn Thông\Net_Buoi02_ThietKeControl\UpperTextBox\obj\Debug\UpperTextBox.pdb

@@ -1,4 +1,0 @@
-E:\LuuDuLieuSinhVien\Bai của Lê Văn Thông\Net_Buoi02_ThietKeControl\MailTextBox\bin\Debug\MailTextBox.dll
-E:\LuuDuLieuSinhVien\Bai của Lê Văn Thông\Net_Buoi02_ThietKeControl\MailTextBox\bin\Debug\MailTextBox.pdb
-E:\LuuDuLieuSinhVien\Bai của Lê Văn Thông\Net_Buoi02_ThietKeControl\MailTextBox\obj\Debug\MailTextBox.dll
-E:\LuuDuLieuSinhVien\Bai của Lê Văn Thông\Net_Buoi02_ThietKeControl\MailTextBox\obj\Debug\MailTextBox.pdb
