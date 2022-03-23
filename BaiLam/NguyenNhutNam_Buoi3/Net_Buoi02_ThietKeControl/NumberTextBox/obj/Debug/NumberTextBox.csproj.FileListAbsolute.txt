@@ -1,0 +1,4 @@
+E:\LuuDuLieuSinhVien\Bai của Lê Văn Thông\Net_Buoi02_ThietKeControl\NumberTextBox\bin\Debug\NumberTextBox.dll
+E:\LuuDuLieuSinhVien\Bai của Lê Văn Thông\Net_Buoi02_ThietKeControl\NumberTextBox\bin\Debug\NumberTextBox.pdb
+E:\LuuDuLieuSinhVien\Bai của Lê Văn Thông\Net_Buoi02_ThietKeControl\NumberTextBox\obj\Debug\NumberTextBox.dll
+E:\LuuDuLieuSinhVien\Bai của Lê Văn Thông\Net_Buoi02_ThietKeControl\NumberTextBox\obj\Debug\NumberTextBox.pdb

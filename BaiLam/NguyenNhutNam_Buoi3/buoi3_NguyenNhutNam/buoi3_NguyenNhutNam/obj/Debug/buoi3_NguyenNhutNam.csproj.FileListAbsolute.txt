@@ -1,0 +1,17 @@
+E:\LuuDuLieuSinhVien\NguyenNhutNam_Buoi3\buoi3_NguyenNhutNam\buoi3_NguyenNhutNam\bin\Debug\buoi3_NguyenNhutNam.exe.config
+E:\LuuDuLieuSinhVien\NguyenNhutNam_Buoi3\buoi3_NguyenNhutNam\buoi3_NguyenNhutNam\bin\Debug\buoi3_NguyenNhutNam.exe
+E:\LuuDuLieuSinhVien\NguyenNhutNam_Buoi3\buoi3_NguyenNhutNam\buoi3_NguyenNhutNam\bin\Debug\buoi3_NguyenNhutNam.pdb
+E:\LuuDuLieuSinhVien\NguyenNhutNam_Buoi3\buoi3_NguyenNhutNam\buoi3_NguyenNhutNam\bin\Debug\userControl.dll
+E:\LuuDuLieuSinhVien\NguyenNhutNam_Buoi3\buoi3_NguyenNhutNam\buoi3_NguyenNhutNam\bin\Debug\userControl.pdb
+E:\LuuDuLieuSinhVien\NguyenNhutNam_Buoi3\buoi3_NguyenNhutNam\buoi3_NguyenNhutNam\obj\Debug\buoi3_NguyenNhutNam.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\NguyenNhutNam_Buoi3\buoi3_NguyenNhutNam\buoi3_NguyenNhutNam\obj\Debug\buoi3_NguyenNhutNam.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\NguyenNhutNam_Buoi3\buoi3_NguyenNhutNam\buoi3_NguyenNhutNam\obj\Debug\buoi3_NguyenNhutNam.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\NguyenNhutNam_Buoi3\buoi3_NguyenNhutNam\buoi3_NguyenNhutNam\obj\Debug\buoi3_NguyenNhutNam.exe
+E:\LuuDuLieuSinhVien\NguyenNhutNam_Buoi3\buoi3_NguyenNhutNam\buoi3_NguyenNhutNam\obj\Debug\buoi3_NguyenNhutNam.pdb
+E:\LuuDuLieuSinhVien\NguyenNhutNam_Buoi3\buoi3_NguyenNhutNam\buoi3_NguyenNhutNam\bin\Debug\chuHoa.dll
+E:\LuuDuLieuSinhVien\NguyenNhutNam_Buoi3\buoi3_NguyenNhutNam\buoi3_NguyenNhutNam\bin\Debug\chuHoa.pdb
+E:\LuuDuLieuSinhVien\NguyenNhutNam_Buoi3\buoi3_NguyenNhutNam\buoi3_NguyenNhutNam\obj\Debug\buoi3_NguyenNhutNam.baiTest.resources
+E:\LuuDuLieuSinhVien\NguyenNhutNam_Buoi3\buoi3_NguyenNhutNam\buoi3_NguyenNhutNam\bin\Debug\mailTextBox.dll
+E:\LuuDuLieuSinhVien\NguyenNhutNam_Buoi3\buoi3_NguyenNhutNam\buoi3_NguyenNhutNam\bin\Debug\mailTextBox.pdb
+E:\LuuDuLieuSinhVien\NguyenNhutNam_Buoi3\buoi3_NguyenNhutNam\buoi3_NguyenNhutNam\obj\Debug\buoi3_NguyenNhutNam.TIME.resources
+E:\LuuDuLieuSinhVien\NguyenNhutNam_Buoi3\buoi3_NguyenNhutNam\buoi3_NguyenNhutNam\obj\Debug\buoi3_NguyenNhutNam.thongTinSinhVien.resources
